@@ -32,6 +32,6 @@ Visualize:
 ![image](https://user-images.githubusercontent.com/61531491/157663112-d513adc6-28d4-4ce4-892f-96c3fd0ba61d.png)
 
 
-The Precision on the ps2.0: 97.63%
+The Precision and the Recall on the ps2.0: 97.63% and 96.77%
 
 the author's QQ:1377125526
