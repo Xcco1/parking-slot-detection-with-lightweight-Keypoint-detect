@@ -2,7 +2,7 @@
 # Abstract
 
 In this work,we present a light weight parking slot dectection in BEV.  
-Based on MoveNet,use a MoblienetV2 as the backbone,and the same fpn structure in MoveNet. We use three detect header,respectively detected the heatmap,the center point of the entrance line and the orientation of the parking slot. Due to  the characteristic of bird eye view,the far object will be obscure but not small,then we remove the offsets branch to save more parameters. Bisides, for better supervision,w       
+Based on MoveNet,use a MoblienetV2 as the backbone,and the same fpn structure in MoveNet. We use three detect header,respectively detected the heatmap,the center point of the entrance line and the orientation of the parking slot. Due to  the characteristic of bird eye view,the far object will be obscure but not small,then we remove the offsets branch to save more parameters.    
 The whole Parameters of the model is only 0.255M.   
 The Precision and the Recall on the ps2.0: 97.63% and 96.77%
 
